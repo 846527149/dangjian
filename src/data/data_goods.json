@@ -1,0 +1,103 @@
+{
+  "goods": [{
+      "code": "001001",
+      "catecode": "001",
+      "title": "洗衣机"
+    },
+    {
+      "code": "001002",
+      "catecode": "001",
+      "title": "冰箱"
+    },
+    {
+      "code": "001003",
+      "catecode": "001",
+      "title": "微波炉"
+    },
+    {
+      "code": "001004",
+      "catecode": "001",
+      "title": "冰箱"
+    },
+    {
+      "code": "001005",
+      "catecode": "001",
+      "title": "电饭锅"
+    },
+    {
+      "code": "001006",
+      "catecode": "002",
+      "title": "床品套件"
+    },
+    {
+      "code": "001007",
+      "catecode": "002",
+      "title": "地毯"
+    },
+    {
+      "code": "001008",
+      "catecode": "002",
+      "title": "沙发垫"
+    },
+    {
+      "code": "001009",
+      "catecode": "002",
+      "title": "被套"
+    },
+    {
+      "code": "001010",
+      "catecode": "003",
+      "title": "国产腕表"
+    },
+    {
+      "code": "001011",
+      "catecode": "003",
+      "title": "手饰"
+    },
+    {
+      "code": "001012",
+      "catecode": "003",
+      "title": "瑞士腕表"
+    },
+    {
+      "code": "001013",
+      "catecode": "003",
+      "title": "太阳眼镜"
+    },
+    {
+      "code": "001014",
+      "catecode": "003",
+      "title": "颈饰"
+    },
+    {
+      "code": "001015",
+      "catecode": "004",
+      "title": "手机"
+    },
+    {
+      "code": "001016",
+      "catecode": "004",
+      "title": "笔记本"
+    },
+    {
+      "code": "001017",
+      "catecode": "005",
+      "title": "面部护理"
+    },
+    {
+      "code": "001018",
+      "catecode": "005",
+      "title": "口红"
+    },
+    {
+      "code": "001019",
+      "catecode": "006",
+      "title": "现代/当代"
+    },
+    {
+      "code": "001020",
+      "catecode": "006",
+      "title": "儿童文学"
+    }
+  ]
+}
