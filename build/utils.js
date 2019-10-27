@@ -30,28 +30,6 @@ exports.cssLoaders = function (options) {
     }
   };
 
-  function lessResourceLoader() {
-    var loaders = [
-      cssLoader,
-      'less-loader',
-      {
-        loader: 'sass-resources-loader',
-        options: {
-          resources: [
-            path.resolve(__dirname, '../src/assets/less/base.less'),
-          ]
-        }
-      }
-    ];
-    if (options.extract) {
-      return ExtractTextPlugin.extract({
-        use: loaders,
-        fallback: 'vue-style-loader'
-      })
-    } else {
-      return ['vue-style-loader'].concat(loaders)
-    }
-  }
   // generate loader string to be used with extract text plugin
   function generateLoaders(loader, loaderOptions) {
     //const loaders = [cssLoader, px2remLoader];
